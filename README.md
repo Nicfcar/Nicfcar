@@ -1,4 +1,4 @@
-Olaaa, meu nome é Nícolas e seja bem vindx ao meu perfil do GitHub
+<h1> Olaaa, meu nome é Nícolas e esse é meu perfil do GitHub!! </h1>
 
 <div align="center">
   <a href="https://https://github.com/Nicfcar">
