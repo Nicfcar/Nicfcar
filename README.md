@@ -1,4 +1,4 @@
-<h3> 🎶⭐Olaaa, meu nome é Nícolas e esse é meu perfil do GitHub!!⭐🎶 </h3>
+<h3> 🎶⭐Ola, meu nome é Nícolas e esse é meu perfil do GitHub!!⭐🎶 </h3>
 
 <div align="center">
   <a href="https://github.com/Nicfcar">
